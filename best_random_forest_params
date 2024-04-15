@@ -1,0 +1,13 @@
+ Before feature selection:
+
+ n_estimators & 850 \\
+ min_samples_split & 4 \\
+ min_samples_leaf & 2 \\
+ max_depth & 4 \\
+
+
+After feature selection:
+{'n_estimators': 170,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 2,
+ 'max_depth': 70}
